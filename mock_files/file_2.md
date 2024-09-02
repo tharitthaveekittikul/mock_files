@@ -1,0 +1,1 @@
+This is a mock file for file_2.md
